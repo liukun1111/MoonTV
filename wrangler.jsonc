@@ -1,6 +1,9 @@
 {
   "name": "tv",
-  "compatibility_date": "2025-08-04",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "compatibility_date": "2099-08-04",
   "assets": {
     "directory": ".vercel/output/static"
   }
